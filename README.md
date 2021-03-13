@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://404-not-found-lac.vercel.app/">
+    <a href="">
       Demo
     </a>
     <span> | </span>
@@ -35,7 +35,7 @@
 <!-- OVERVIEW -->
 
 ## Overview
-![preview](css/assets/preview.png)
+![preview](css/assets/responsive.png)
 
 - You can see a demo at [404-not-found](https://404-not-found-lac.vercel.app/)
 - This is my first challenge on DevChallenges. 
