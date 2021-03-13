@@ -1,4 +1,3 @@
-<!-- Please update value in the {}  -->
 ![portada](css/assets/portada.png)
 
 <h1 align="center">{404 not found}</h1>
@@ -23,8 +22,9 @@
   </h3>
 </div>
 
-<!-- TABLE OF CONTENTS -->
+<hr>
 
+<!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
 - [Overview](#overview)
@@ -34,7 +34,6 @@
 - [Contact](#contact)
 
 <!-- OVERVIEW -->
-
 ## Overview
 ![preview](css/assets/responsive.png)
 
@@ -66,3 +65,10 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - GitHub [@Aman-sgz](https://github.com/Aman-sgz)
+- Twitter [@Aman_arg](https://twitter.com/Aman_arg)
+
+---
+
+<div align="right">
+  <p>Aman-sgz | 2021</p>
+</div>
